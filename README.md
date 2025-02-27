@@ -13,7 +13,7 @@ This project analyzes **finance data** using **Google Colab, Python (Pandas, Mat
 ## 📊 Features
 - ✅ Runs **SQL queries in Google Colab**.
 - ✅ Performs **data visualization** with Matplotlib.
-- - ✅ Performs **data dashboard** withStreamlit.
+- ✅ Performs **data dashboard** withStreamlit.
 - ✅ Uses **SQLite for structured data storage**.
 
 ## 🚀 How to Run
